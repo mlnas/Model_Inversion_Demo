@@ -58,7 +58,8 @@ We secure your models using:
 -  Before/after risk reporting
 -  Integration into your **CI/CD and MLOps** workflows
 
----
+---![Model Hardening Workflow](https://github.com/user-attachments/assets/21b1c22d-9112-4666-909e-5243f97ec5b0)
+
 
 ##  What the Demo Includes
 
