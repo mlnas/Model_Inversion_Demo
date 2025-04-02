@@ -2,7 +2,7 @@
 
 ##  What This Project Demonstrates
 
-This interactive demo shows how a machine learning model - even when exposed *only as an API* — can leak sensitive patterns from the data it was trained on. It simulates a **Model Inversion Attack**, where an adversary attempts to **reconstruct private input data** (e.g., customer behavior) by manipulating the model’s output.
+This interactive demo shows how a machine learning model - even when exposed *only as an API* - can leak sensitive patterns from the data it was trained on. It simulates a **Model Inversion Attack**, where an adversary attempts to **reconstruct private input data** (e.g., customer behavior) by manipulating the model’s output.
 
 The project also shows how to defend against this risk using **AI security tools** like the **Adversarial Robustness Toolbox (ART)** and **SecML**, and compares the attack effectiveness before and after defenses are applied.
 
